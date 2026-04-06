@@ -92,6 +92,7 @@
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [FindBSB](https://findbsb.com.au/api) – Free Australian BSB number lookup API for validating bank branch codes. No authentication required. 18,000+ BSBs updated monthly from AusPayNet.
 
 ## Fraud, Risk & Compliance
 
